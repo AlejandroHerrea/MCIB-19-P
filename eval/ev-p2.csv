@@ -1,0 +1,15 @@
+práctica,actividad,descripción,RODRIGUEZ GONZALEZ MONICA,GARCIA ALARCON EDUARDO,
+2,Actividad 1,Desarrollar una función que calcule la FFT aplicando por lo menos tres ventanas de tal forma que se pueda evaluar cual ventana permite visualizar de mejor manera al espectro,2,2,faltó explicación
+2,Actividad 1,"Desarrollar una función que estime el PSD con el algoritmo de Welch, siendo sus entradas: señal, longitud de las épocas, y porcentaje de traslape",2,2,faltó explicación
+2,Actividad 1,Desarrollar una función que permita evaluar la respuesta en frecuencia de un filtro,2,2,tiene un warning
+2,Actividad 1,"Implementar una función que evalúe un filtro de media móvil, para épocas de N muestras con p porcentaje de traslape",2,2,faltó explicación
+2,Actividad 1,"Implementar una función elimine la tendencia lineal móvil, asumiendo un 50 % de traslape de épocas de N muestras, y utilizando el método de la pseudo-inversa",2,2,no aparece la escala de frecuencias
+2,Actividad 2,Estimar el espectro para cada una de las señales adquiridas en la Práctica 0 ¿Los espectros de un mismo tipo de señal son parecidos a pesar de haber sido adquiridos en diferentes sesiones?,2,2,no se contestó la pregunta
+2,Actividad 2,Implementar un esquema de filtrado que mejor se adapte a cada tipo de señal. a) Evaluar la respuesta en frecuencia de los filtros. b) Comparar la señal filtrada respecto a la original,3,3,
+2,Actividad 2,"Seleccione los registros que requieran que se elimine la tendencia lineal, y elimínela con la función que diseño.",2,2,no se especificó porque se seleccionaron dichos registros
+2,Actividad 2,Evalúe que caso preserva más la morfología de la señal: eliminar tendencia→filtrado vs filtrado→eliminar tendencia,0,0,no se realizó
+2,Entregables,Código en github: se requieren de al menos 10 commits con versiones funcionales en cada caso,3,3,Los comentarios de commit de Mónica no indican que modificaciones se hicieron en el código
+2,Entregables,Análisis de las decisiones tomadas para la elección de los diferentes esquemas de filtrado,0,0,no se realizó
+2,Entregables,Discusión de los hallazgos relacionados a la estimación del contenido espectral de sus señales,0,0,no se realizó
+2,Entregables,Bitácora,6,6,
+,,,5.5,0.55,Calificación
