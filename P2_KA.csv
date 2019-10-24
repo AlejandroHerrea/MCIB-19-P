@@ -1,0 +1,19 @@
+actividad,descripción,HERRERA SANTOS ALEJANDRO,MENA CAMILO ENRIQUE,comment KA
+Actividad 1,Desarrollar una función que calcule la FFT aplicando por lo menos tres ventanas de tal forma que se pueda evaluar cual ventana permite visualizar de mejor manera al espectro,3,3,buena presentación
+,"Desarrollar una función que estime el PSD con el algoritmo de Welch, siendo sus entradas: señal, longitud de las épocas, y porcentaje de traslape",3,3,muy bien
+,Desarrollar una función que permita evaluar la respuesta en frecuencia de un filtro,3,3,(vacío)
+,"Implementar una función elimine la tendencia lineal móvil, asumiendo un 50 % de traslape de épocas de N muestras, y utilizando el método de la pseudo-inversa",2.5,2.5,no se mencionan los detalles de la función que evalúa la pseudo-inversa
+,"Implementar una función que evalúe un filtro de media móvil, para épocas de N muestras con p porcentaje de traslape",3,3,(vacío)
+Actividad 2,Estimar el espectro para cada una de las señales adquiridas en la Práctica 0 ¿Los espectros de un mismo tipo de señal son parecidos a pesar de haber sido adquiridos en diferentes sesiones?,3,3,se responde pregunta en bitácora
+,Evalúe que caso preserva más la morfología de la señal: eliminar tendencia→filtrado vs filtrado→eliminar tendencia,3,3,(vacío)
+,Implementar un esquema de filtrado que mejor se adapte a cada tipo de señal. a) Evaluar la respuesta en frecuencia de los filtros. b) Comparar la señal filtrada respecto a la original,3,3,automatizar los indices que indican el intervalo a gráficar
+,"Seleccione los registros que requieran que se elimine la tendencia lineal, y elimínela con la función que diseño.",3,3,(vacío)
+Entregables,Análisis de las decisiones tomadas para la elección de los diferentes esquemas de filtrado,3,3,(vacío)
+,Bitácora,8,8,No se hace referencia en bitácora a las figuras correspondientes en el jupyter notebook
+,Código en github: se requieren de al menos 10 commits con versiones funcionales en cada caso,3,3,(vacío)
+,Discusión de los hallazgos relacionados a la estimación del contenido espectral de sus señales,3,3,(vacío)
+,,,,
+,Puntos,35.5,35.5,
+,De,39,39,
+,Calificación Practica,9.1025641025641,9.1025641025641,
+,Bitácora,8,8,
